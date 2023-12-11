@@ -7,8 +7,8 @@
  - 장준환 : 깃 연동 테스트
  - 김지혜 : 깃 연동 테스트
 
-
-
+[2023-12-11]
+김정건 feature#7-productCRUD 브랜치 생성
 
  [ERROR CODE]
 
@@ -16,4 +16,4 @@
  - 해당 메시지는 Spring Boot 2.6.x 버전부터, 순환 참조를 default로 금지함으로서 발생되는 에러메시지이다.
    -   main:
        allow-circular-references: true
-   - application.yml에 위 구문을 추가함으로서 해결할 수 있다.
+   - application.yml에 위 구문을 추가함으로서 해결할 수 있다.-
